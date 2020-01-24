@@ -24,5 +24,5 @@
         
 
 # Launch guide 
-        Settle *.py files (in the branch of ‘Code&wxGlade’) as they were and run 'WelcomePage.py' in Python IDEs.
+        Settle *.py files (in the branch of ‘CodeS&wxGlade’) as they were and run 'WelcomePage.py' in Python IDEs.
         Test.png (in the branch of 'TestFileS') may be used for the very first-run.
