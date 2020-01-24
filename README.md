@@ -1,7 +1,7 @@
 # PlantCrossSectionSegment
 
 # Classifiers
-        'Programming Language :: Python :: 3',
+        'Programming Language :: Python :: 3.8',
         'License :: OSI Approved :: MIT License',
         'Development Status :: 5 - Production/Stable',
         'Intended Audience :: Science/Research',
@@ -11,16 +11,16 @@
         'Natural Language :: English'
 
 # Install requires
-        'numpy>=1.14.2',
-        'matplotlib>=2.1.2',
-        'scipy>=1.1.0',
+        'numpy>=1.18.0',
+        #'matplotlib>=2.1.2',
+        #'scipy>=1.1.0',
         'scikit-image',
         'Opencv-python',
-        'Pillow',
+        #'Pillow',
         #'math',
         #'pylab',
-        'scikit-learn',
-        'wxPython>=4.0.0'
+        #'scikit-learn',
+        'wxPython>=4.0.7.post2'
         
 
 # Launch guide 
